@@ -412,15 +412,13 @@
       </build>
     </profile>
   </profiles>
-	<!--
   <repositories>
     <repository>
       <id>maven-group</id>
-      <url>http://10.20.200.60:32247/repository/maven-releases/</url>
+      <url>https://10.60.100.80:30801/repository/maven-releases/</url>
 	<releases>
        	<enabled>true</enabled>
 	</releases>           
     </repository>
   </repositories>
--->
 </project>
