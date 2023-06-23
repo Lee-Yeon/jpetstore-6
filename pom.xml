@@ -415,7 +415,7 @@
   <repositories>
     <repository>
       <id>maven-group</id>
-      <url>https://10.60.100.80:30801/repository/maven-releases/</url>
+      <url>https://10.60.100.80:32259/repository/maven-releases/</url>
 	<releases>
        	<enabled>true</enabled>
 	</releases>           
